@@ -1,0 +1,14 @@
+name: GCP
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.3
+  - r-dplyr
+  - r-tidyr
+  - r-data.table
+  - r-randomcolor
+  - r-argparse
+  - bioconductor-karyoploter
+  - emboss
