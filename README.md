@@ -1,6 +1,8 @@
 # GCP - Genomic Centromere Profiling
 A repository of the Genomic Centromere Profiling (GCP) codes and associated files as in Corda & Giunta 2025.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14914139.svg)](https://doi.org/10.5281/zenodo.14914139)
+
 ---
 Utilities to analyze and annotate the human centromere based on the pattern of numerical values derived from the nucleotide distance between consecutive DNA motifs - in this case, using the designated functional centromeric string as query (**CENP-B box**).
 
