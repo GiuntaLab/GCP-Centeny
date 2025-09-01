@@ -61,4 +61,4 @@ Generates CENP-B box annotation in chromosome 17 (CHM13) by using **CENTENY**, *
 ![](chr17_igv.png)
 
 ### References:
-Corda L. & Giunta S., "**Manuscript under review**".
+Corda, L. & Giunta, S. **Chromosome-specific centromeric patterns define the centeny map of the human genome.** Science 389, eads3484 (2025).
