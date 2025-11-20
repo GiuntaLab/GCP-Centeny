@@ -1,5 +1,9 @@
 # GCP - Genomic Centromere Profiling
-A repository of the Genomic Centromere Profiling (GCP) codes and associated files as in Corda & Giunta 2025.
+A repository of the Genomic Centromere Profiling (GCP) codes and associated files as in Corda & Giunta 2025, Science. Briefly, in this work we report our discovery of the conserved position of a specific centromeric DNA motif across human and primates genomes. We leveraged the exact conservation to extract a numerical rendering of human DNA based on distances from one motif to the next, enabling us to study centromere organization and architecture at scale.
+
+https://www.science.org/doi/10.1126/science.ads3484
+
+Free copy available here: https://sites.google.com/uniroma1.it/giuntalab/research
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14914139.svg)](https://doi.org/10.5281/zenodo.14914139)
 
