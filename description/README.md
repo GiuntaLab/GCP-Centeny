@@ -76,7 +76,7 @@ The fuzznuc module searches for a specific DNA motif within a nucleotide sequenc
 ```
 Rscript GCP.R \
     fuzznuc \
-    -fa ../test/chr17.t2t-chm13-v2.0.fa \
+    -fa ../test/chr17.t2t-chm13-v2.0.fa.gz \
     -seq NTTCGNNNNANNCGGGN \
     -o ../output
 ```

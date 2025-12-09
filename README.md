@@ -36,7 +36,7 @@ Rscript GCP.R --help
 
 Running fuzznuc to search for the CENP-B box within the FASTA file. 
 ```
-Rscript GCP.R fuzznuc -fa ../test/chr17.t2t-chm13-v2.0.fa -seq NTTCGNNNNANNCGGGN -o ../output
+Rscript GCP.R fuzznuc -fa ../test/chr17.t2t-chm13-v2.0.fa.gz -seq NTTCGNNNNANNCGGGN -o ../output
 ```
 Running CENTENY (visualize query orientation as marker on chromosome):
 ```
